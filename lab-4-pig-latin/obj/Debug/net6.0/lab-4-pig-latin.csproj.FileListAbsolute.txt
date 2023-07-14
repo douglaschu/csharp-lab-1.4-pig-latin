@@ -1,0 +1,15 @@
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/bin/Debug/net6.0/lab-4-pig-latin
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/bin/Debug/net6.0/lab-4-pig-latin.deps.json
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/bin/Debug/net6.0/lab-4-pig-latin.runtimeconfig.json
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/bin/Debug/net6.0/lab-4-pig-latin.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/bin/Debug/net6.0/lab-4-pig-latin.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/obj/Debug/net6.0/lab-4-pig-latin.csproj.AssemblyReference.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/obj/Debug/net6.0/lab-4-pig-latin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/obj/Debug/net6.0/lab-4-pig-latin.AssemblyInfoInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/obj/Debug/net6.0/lab-4-pig-latin.AssemblyInfo.cs
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/obj/Debug/net6.0/lab-4-pig-latin.csproj.CoreCompileInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/obj/Debug/net6.0/lab-4-pig-latin.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/obj/Debug/net6.0/refint/lab-4-pig-latin.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/obj/Debug/net6.0/lab-4-pig-latin.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/obj/Debug/net6.0/lab-4-pig-latin.genruntimeconfig.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3-pig-latin/lab-4-pig-latin/obj/Debug/net6.0/ref/lab-4-pig-latin.dll
