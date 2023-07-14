@@ -18,7 +18,11 @@ while (runProgram) {
     foreach (char letter in word)
     {
         vowelIndex = vowelIndex + 1;; //advance to next letter of line
-        if (letter == 'a' || letter == 'e' || letter == 'i' || letter == 'o' || letter == 'u')
+        if (letter == 'a'
+            || letter == 'e'
+            || letter == 'i'
+            || letter == 'o'
+            || letter == 'u')
         {
             break;
         }
