@@ -13,6 +13,10 @@ while (runProgram) {
     Console.WriteLine("Enter a line to be translated:");
     string word = Console.ReadLine().ToLower();
 
+    //"clean" the string to only have first letter capitalized
+    //use Substring() to target first letter
+    //string cleaned = dirty.Substring(0, 1).ToUpper() + dirty.Substring(1).ToLower();
+
     //vowel finder
     int vowelIndex = -1;
     foreach (char letter in word)
